@@ -1,0 +1,7 @@
+This video demonstrates a project of image stylization. Running the APP on C8550 first introduced our development environment, followed by our development board. Then, open the APP, select an image, select the style that needs to be stylized, click run, and you will see that the image has been stylized. Switching styles can regenerate a new style.
+
+
+
+
+
+
