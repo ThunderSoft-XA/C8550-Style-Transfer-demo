@@ -1,4 +1,4 @@
-# TensorFlow Lite Style Transfer Demo
+#Style Transfer Demo
 
 ### Overview
 
@@ -15,12 +15,6 @@ explicitly.
 
 This application should be run on a physical Android device.
 
-![Camera screen.](screenshot1.jpg?raw=true "Camera screen")
-
-![Transformation screen.](screenshot2.jpg?raw=true "Transformation screen")
-
-Test image
-from [Pixabay](https://pixabay.com/photos/tiger-head-face-feline-wild-cat-2923186/)
 
 ## Build the demo using Android Studio
 
@@ -39,9 +33,6 @@ from [Pixabay](https://pixabay.com/photos/tiger-head-face-feline-wild-cat-292318
 * Open Android Studio. From the Welcome screen, select Open an existing Android
   Studio project.
 
-* From the Open File or Project window that appears, navigate to and select the
-  tensorflow-lite/examples/style_transfer/android directory. Click OK.
-
 * If it asks you to do a Gradle Sync, click OK.
 
 * With your Android device connected to your computer and developer mode
@@ -52,9 +43,3 @@ from [Pixabay](https://pixabay.com/photos/tiger-head-face-feline-wild-cat-292318
 Downloading, extraction, and placing the models into the assets folder is
 managed automatically by the download.gradle file.
 
-### Resources used
-
-* [TensorFlow Lite](https://www.tensorflow.org/lite)
-* [Train the style transfer model and export to TensorFlow Lite](https://github.com/tensorflow/magenta/tree/master/magenta/models/arbitrary_image_stylization#train-a-model-on-a-large-dataset-with-data-augmentation-to-run-on-mobile)
-* [Neural Style Transfer with TensorFlow](https://www.tensorflow.org/tutorials/generative/style_transfer)
-* [CameraX](https://developer.android.com/training/camerax)
