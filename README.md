@@ -33,8 +33,6 @@ This application should be run on a physical Android device.
 * Open Android Studio. From the Welcome screen, select Open an existing Android
   Studio project.
 
-* From the Open File or Project window that appears, navigate to and select the
-  tensorflow-lite/examples/style_transfer/android directory. Click OK.
 
 * If it asks you to do a Gradle Sync, click OK.
 
